@@ -1,5 +1,9 @@
-# air
+# Air Quality
 
+## Description
+```
+application in viewJs with API communication to Axios to check the air quality of cities,
+```
 ## Project setup
 ```
 npm install
@@ -20,5 +24,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Created by
+```
+Guillaume
+```
