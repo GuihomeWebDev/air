@@ -1,4 +1,4 @@
-# Air Quality
+# Air
 
 ## Description
 ```
